@@ -75,7 +75,7 @@ flowchart TD
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyclF1b2RuMGRyY3MzYTFxeHc0YWNvb3VlbwktOdmlmc3Cobz7d4g/giphy.gif" height="100" alt="Confetti animation">
   <br>
-  <sub><i>Modern Analyst + DataScience by Piyush Suthar</i></sub>
+  <sub><i>Modern Analyst + DataScience by Shubham Singh Shekhawat</i></sub>
 </div>
 
 <!--
