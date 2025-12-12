@@ -49,7 +49,7 @@ flowchart TD
   <img src="https://streak-stats.demolab.com/?user=Shub8627&theme=radical" height="160" />
   <br>
   <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushsuthar07&theme=monokai" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham &theme=monokai" height="200" />
 </div>
 
 
